@@ -1,9 +1,11 @@
 
 
-### Books 
+## Books 
 Desgin of Data Intensive Applications
 
-### Papers
+## Videos
+- Deconstructing a database - https://www.youtube.com/watch?v=Cym4TZwTCNU (by Clojure author)
+## Papers
 #### Databases
 - Dynamodb - https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 - Apache Cassandra - http://www.cs.cornell.edu/Projects/ladis2009/papers/Lakshman-ladis2009.PDF
