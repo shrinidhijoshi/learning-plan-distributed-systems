@@ -1,4 +1,5 @@
-
+## Courses
+https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos
 
 ## Books 
 Desgin of Data Intensive Applications
