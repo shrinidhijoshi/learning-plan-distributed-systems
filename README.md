@@ -9,6 +9,7 @@ Desgin of Data Intensive Applications
 - Deconstructing a database - https://www.youtube.com/watch?v=Cym4TZwTCNU (by Clojure author)
 ## Papers
 #### Databases
+- Spanner - http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
 - Dynamodb - https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 - Apache Cassandra - http://www.cs.cornell.edu/Projects/ladis2009/papers/Lakshman-ladis2009.PDF
 - Apache Druid - http://static.druid.io/docs/druid.pdf
