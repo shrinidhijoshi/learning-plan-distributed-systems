@@ -30,6 +30,7 @@ Desgin of Data Intensive Applications
 - CAP Theorem
 - FLP impossibility - https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf
 - Byzantine Fault tolerance - 
+- Paxos - http://eecs.harvard.edu/cs262/Readings/paxosmadelive.pdf
 - Raft - https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14
 - Leader election
 - Mutual exclusion
@@ -43,3 +44,5 @@ Desgin of Data Intensive Applications
 
 ### Miscellaneous
 - Apache calcite - https://arxiv.org/pdf/1802.10233.pdf
+
+
