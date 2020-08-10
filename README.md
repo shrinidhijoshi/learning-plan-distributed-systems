@@ -10,6 +10,7 @@ Desgin of Data Intensive Applications
 ## Papers
 #### Databases
 - Spanner - http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
+- BigTable - http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
 - Dynamodb - https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 - Apache Cassandra - http://www.cs.cornell.edu/Projects/ladis2009/papers/Lakshman-ladis2009.PDF
 - Apache Druid - http://static.druid.io/docs/druid.pdf
@@ -17,6 +18,9 @@ Desgin of Data Intensive Applications
 - CockroachDB - https://cs.ulb.ac.be/public/_media/teaching/cockroachdb_2017.pdf
 - Apache Ignite - https://cs.ulb.ac.be/public/_media/teaching/ignite_2017.pdf
 - kafka - http://notes.stephenholiday.com/Kafka.pdf
+
+#### File Systems
+- GFS - http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
 
 #### Data Processing systems
 - Drill - 
